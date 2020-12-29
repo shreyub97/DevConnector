@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://shreyub97:shreyub97@devconnector.qghd3.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken" :"mysecrettoken",
+    "githubclientid": "4500832ac6b517672ba9",
+    "githubSecret": "97f45031078793a2fd2abd48501ad6f0f8413d34"
+}
